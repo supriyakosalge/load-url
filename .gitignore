@@ -1,0 +1,6 @@
+/node_modules
+/cypress/integration/examples
+/builds
+/cypress
+.DS_Store
+.sass-cache
